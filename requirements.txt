@@ -1,0 +1,4 @@
+aiogram==2.25.1
+openai==0.27.8
+Pyrogram==2.0.106
+
