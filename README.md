@@ -7,7 +7,7 @@
 3. Get token Open AI on site 
 
 ##### Put this information in ***config.py***
-TOKEN = "<telegram-bot-token>"  # obtained from @BotFather
+TOKEN = "<telegram-bot-token>"  # obtained from @BotFather  
 OPENAI_TOKEN = "<openai-api-key>"  # obtained from https://platform.openai.com/account/api-keys
 
 
